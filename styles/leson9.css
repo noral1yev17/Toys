@@ -1,0 +1,133 @@
+*::after,*::before,*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container{
+ width: 1220px;
+  /* width: 100%; */
+  margin: 0 auto;
+  padding: 0 20px;
+}
+body{
+  font-family: "Rubik", sans-serif;
+}
+.card__ul{
+  display: flex;
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  gap: 10px;
+  
+
+}
+.card__ul__item{
+  list-style-type: none;
+  background-color: #FEC423;
+  width: 270px;
+  height: 600px;
+  border-radius: 5px;
+  margin-bottom: 100px;
+
+
+}
+.card__ul__item2{
+  list-style-type: none;
+  background-color: #55DBEA;
+  width: 270px;
+  height: 600px;
+  border-radius: 5px;
+  margin-bottom: 100px;
+
+
+}
+.card__ul__item3{
+  list-style-type: none;
+  background-color: #44A8FD;
+  width: 270px;
+  height: 600px;
+  border-radius: 5px;
+  margin-bottom: 100px;
+
+
+}
+.card__ul__item4{
+  list-style-type: none;
+  background-color: #BECEDD;
+  width: 270px;
+  height: 600px;
+  border-radius: 5px;
+  margin-bottom: 100px;
+}
+.card__ul__item__img{
+  margin-top: 60px;
+  margin-left: 24px;
+}
+.card__ul__title{
+  font-weight: 700;
+  font-size:20px;
+  margin-left: 30px;
+  margin-top: 40px;
+  color:#fff;
+}
+.card__ul__par{
+  margin-left: 30px;
+  color:#fff;
+  font-size:14px;
+}
+.dollar99{
+  font-weight: 500;
+  font-size: 55px;
+  margin-left: 40px;
+  margin-top: 40px;
+  color:#fff;
+}
+.dollar{
+  margin-left: 30px;
+  margin-top: -30px;
+  color:#fff;
+  margin-right: 10px;
+ 
+}
+.card__ul__item__img__bus{
+  margin-top: 60px;
+  margin-left: 40px;
+  width: 150px;
+  height: 120px;
+}
+.card__ul__item__img__qurt{
+  margin-top: 60px;
+  margin-left: -4px;
+ 
+  width: 250px;
+  height: 120px;
+}
+.check{
+  display: flex;
+  margin-top: 20px;
+}
+.free__domian{
+  margin-left: 10px;
+  color:#fff;
+  font-size:17px;
+}
+.check__img{
+  margin-left: 30px;
+}
+.ul__link{
+  border:#fff solid 3px;
+  width: 200px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 30px;
+  margin-top: 20px;
+  color:#fff;
+ 
+}
+.ul__link_big{
+  text-decoration: none;
+}
